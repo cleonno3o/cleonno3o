@@ -8,10 +8,8 @@
 ## 🛠️ Skills
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,java,c,cpp,matlab&theme=light)](https://skillicons.dev)
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,vscode,visualstudio,aws&theme=light)](https://skillicons.dev)
 
-### 🧰 Tools & Frameworks
+### Tools & Frameworks
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
