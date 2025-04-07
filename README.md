@@ -1,5 +1,5 @@
 ## 😊 About Me 6v6
-- 🎓 경북대학교 전자공학부 (Kyungpook National University) (2019.03 - 2025.08)
+- 🎓 경북대학교 전자공학부 (Kyungpook National University, School of Electronics Engineering) (2019.03 - 2025.08)
 - 📡 경북대학교 무선 통신 및 측위 연구실 (KNU Wireless Communication & Sensing Lab) (2022.11 - 2024.01)
 - 📱 카카오테크 캠퍼스 2기 - Android 트랙 (kakao Tech Campus - Android Track) (2024.04 - 2024.11)
 - 🚗 현대자동차그룹 소프티어 부트캠프 5기 - 데이터엔지니어링 (HMG SOFTEER BOOTCAMP - Data Engineering) (2025.01 - 2025.02)
